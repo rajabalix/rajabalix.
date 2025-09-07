@@ -7,6 +7,13 @@ Here you’ll find my experiments, projects, and contributions.
 
 ---
 
+## 🚀 Badges
+![Profile Views](https://komarev.com/ghpvc/?username=rajabalix&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/rajabalix?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/rajabalix?label=Stars&style=social)  
+
+---
+
 ## 🔗 Connect with me
 - 🐙 GitHub: [rajabalix](https://github.com/rajabalix)  
 - 🐦 X (Twitter): [@RHanifx](https://x.com/RHanifx)  
@@ -24,4 +31,4 @@ Here you’ll find my experiments, projects, and contributions.
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to connect.
+⭐ Thanks for visiting my profile! Let’s connect and build something awesome together 🚀
